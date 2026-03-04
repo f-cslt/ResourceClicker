@@ -1,0 +1,16 @@
+/.metadata/
+*.classpath
+*.project
+*.settings/
+
+
+GameProject/bin/
+
+# Eclipse me crée un .gitignore à la source du projet
+
+GameProject/.gitignore
+.vscode/
+deps/
+bin/
+
+.DS_Store
